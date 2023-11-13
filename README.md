@@ -113,7 +113,7 @@ Insert image here
 
 Image:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+(https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 
 ![image](https://github.com/Preetha-Senthamilan/mobilerobot-openloopcontrol/assets/119390282/a11e6030-707c-44c3-8746-e0be1c469c9d)
